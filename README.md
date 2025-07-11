@@ -1,3 +1,1 @@
->cd into frontend 
->download file 
->npm run dev 
+RUN NPM INSTALL TO INSTALL ALL DEPENDENCIES > MODULE FILE IS GOING TO BE CREATED 
